@@ -17,7 +17,7 @@ This work identifies the specific biological mechanisms required to validate Pri
 
 ### Mathematical Proof (`ais_holographic_proof3.py`)
 
-[pic](geometric_orbit_proof_v3.png)
+![geometric_orbit_proof_v3.png](geometric_orbit_proof_v3.png)
 
 The `ais_holographic_proof3.py` script computationally validates this framework, demonstrating that the AIS stores attractors rather than acting as a simple Fourier filter. 
 * **Quadrature Grating Correlation:** The cosine grating achieves a 0.8898 correlation with theoretical predictions, proving the mechanism captures full phase information.
