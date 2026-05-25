@@ -1,2 +1,3 @@
 # QualiaSchmualia
-A qualia sim for the feeble minded. 
+
+It is at: https://anttiluode.github.io/QualiaSchmualia/
