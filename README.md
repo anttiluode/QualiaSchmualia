@@ -38,7 +38,7 @@ This project is licensed under the MIT License - Copyright (c) 2026 anttiluode.
 
 # A technical analysis of qualia in the holographic AIS framework
 
-![Qualia Holographic Mechanism](qualia_holographic_mechanism.svg)
+![Qualia Holographic Mechanism](qualia.PNG)
 
 What follows is speculative but mechanistically specific. We may be wrong. The point is to be wrong in testable ways.
 
